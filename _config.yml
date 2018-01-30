@@ -5,7 +5,7 @@ welcome_message: 把每一件简单的事情做好，就是不简单.把每一�
 description: 态度决定一切，细节决定成败。<br>Attitude decides everything, details determine success or failure.
 creator: @Jesse
 
-url: "http://vno.onevcat.com"
+url: "https://jessestyle.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://jessestyle.github.io'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: 
+    github: 
+    twitter: 
+    gplus: 
+    mail: JesseStyle@qq.com
 
 # Google Analytics
 ga:
