@@ -5,7 +5,7 @@ date: 2018-02-14 15:32:24.000000000 +09:00
 ---
 
 本帖收录了Hello! Project digital books套图的目录索引给套图爱好者查阅，资料收集于互联网。本站不提供任何求档及补档要求，带来不便敬请原谅，谢谢！
-Hello! Project digital books 目录索引 已更新至<font color=#00ffff>**162**</font>，更新持续中
+Hello! Project digital books 目录索引 已更新至<font color=red>**162**</font>，更新持续中
 
 | 序号 | 套图名称 |资料档案 | 套图数量 |
 |:-------------|:-------------|:------------| -----:|
