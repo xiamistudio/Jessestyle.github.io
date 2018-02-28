@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello! Project digital books 目录索引
+title: Young Sunday Visual Web 目录索引
 date: 2018-02-28 15:32:24.000000000 +09:00
 ---
 
