@@ -61,5 +61,5 @@ date: 2018-02-14 15:32:24.000000000 +09:00
 | 053	| Maimi Yajima 矢島舞美| 生日：1992-02-07； 身高：168cm； 三围：85-60-90； 罩杯：C杯| 108P| 
 | 054	| Koharu Kusumi 久住小春| 生日：1992-07-15； 身高：166cm| | 117P| 
 | 055	| Airi Suzuki 鈴木愛理| 生日：1994-04-12； 身高：164cm； 三围：79-56-83； 罩杯：B杯| 119P| 
-| 056	| Ai Takahashi 高桥爱 + Eri Kamei 亀井絵里 + Sayumi Michishige 道重さゆみ | | 110P| 
-| 	| Reina Tanaka 田中れいな| | | 
+| 056	| Ai Takahashi 高桥爱 + Eri Kamei 亀井絵里  | | 110P| 
+| 	| Sayumi Michishige 道重さゆみ + Reina Tanaka 田中れいな| | | 
