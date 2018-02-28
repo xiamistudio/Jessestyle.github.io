@@ -163,7 +163,7 @@ Hello! Project digital books 目录索引 **已更新至162**，更新持续中
 | 139	| Rikako Sasaki 佐々木莉佳子|生日：2001-05-28； 身高：159cm| 99P|
 | 140	| Rikako Sasaki 佐々木莉佳子|生日：2001-05-28； 身高：159cm| 94P|
 | 141	| Maimi Yajima 矢島舞美|生日：1992-02-07； 身高：168cm； 三围：85-60-90； 罩杯：C杯|92P|
-| 142	| [Maimi Yajima 矢島舞美](http://blog.sina.com.cn/s/blog_180e76fbf0102x67w.html)|生日：1992-02-07； 身高：168cm； 三围：85-60-90； 罩杯：C杯|83P|
+| 142	| [Maimi Yajima 矢島舞美](http://blog.sina.com.cn/s/blog_180e76fbf0102x67o.html)|生日：1992-02-07； 身高：168cm； 三围：85-60-90； 罩杯：C杯|83P|
 | 143	| Akari Uemura 植村あかり|生日：1998-12-30； 身高：164cm| 109P|
 | 144	| Akari Uemura 植村あかり|生日：1998-12-30； 身高：164cm| 101P|
 | 145	| Kudou Haruka 工藤遥|生日：1999-10-27； 身高：158cm| 100P|
