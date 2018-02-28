@@ -4,7 +4,7 @@ title: Hello! Project digital books 目录索引
 date: 2018-02-14 15:32:24.000000000 +09:00
 ---
 
-本站收录了Hello! Project digital books套图的目录索引给套图爱好者查阅，资料收集于互联网。本站不提供任何求档及补档要求，带来不便敬请原谅，谢谢！
+本站收录了Hello! Project digital books套图的目录索引给套图爱好者查阅，资料收集于互联网。同时本站也发布了部分套图演示，具体可点击相应的链接进入观看，本站不提供任何求档及补档要求，带来不便敬请原谅，谢谢！
 Hello! Project digital books 目录索引 **已更新至162**，更新持续中
 
 | 序号 | 套图名称 |资料档案 | 套图数量 |
@@ -163,7 +163,7 @@ Hello! Project digital books 目录索引 **已更新至162**，更新持续中
 | 139	| Rikako Sasaki 佐々木莉佳子|生日：2001-05-28； 身高：159cm| 99P|
 | 140	| Rikako Sasaki 佐々木莉佳子|生日：2001-05-28； 身高：159cm| 94P|
 | 141	| Maimi Yajima 矢島舞美|生日：1992-02-07； 身高：168cm； 三围：85-60-90； 罩杯：C杯|92P|
-| 142	| Maimi Yajima 矢島舞美|生日：1992-02-07； 身高：168cm； 三围：85-60-90； 罩杯：C杯|83P|
+| 142	| [Maimi Yajima 矢島舞美](http://blog.sina.com.cn/s/blog_180e76fbf0102x67w.html)|生日：1992-02-07； 身高：168cm； 三围：85-60-90； 罩杯：C杯|83P|
 | 143	| Akari Uemura 植村あかり|生日：1998-12-30； 身高：164cm| 109P|
 | 144	| Akari Uemura 植村あかり|生日：1998-12-30； 身高：164cm| 101P|
 | 145	| Kudou Haruka 工藤遥|生日：1999-10-27； 身高：158cm| 100P|
