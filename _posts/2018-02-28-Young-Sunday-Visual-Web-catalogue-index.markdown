@@ -27,4 +27,14 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |003|Eiko Koike 小池栄子||99P|
 |006|Yuka Hirata 平田裕香||118P|
 |009|Kasumi Nakane 仲根かすみ||137P|
+|010|Nana Katase 片瀬那奈||116P|
+|011|Minako Komukai 小向美奈子||118P|
+|012|Riko Kurita 栗田梨子||74P|
+|013|Miho Yoshioka 吉岡美穂||156P|
+|014|Mao Shiina しいなまお|キミの胸で眠りたい|35P|
+|015|Yuko Ogura 小倉優子||121P|
+|016|小向美奈子||10P|
+|017|吉岡美穂|情热の庵と神秘の岛|200P|
+|018|釈由美子|Nature Calls Me!|80P|
+
 |670| [Mai Shiraishi 白石麻衣](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) || 28P |
