@@ -588,35 +588,33 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |653| Nanami Hashimoto 桥本奈奈未 この透明感…ドキッ！|   33P/59.8   |
 |654| Suze Hirose 広瀬すず 奇跡の妹|   25P/48.4   |
 |655 |Anri Sugihara 杉原杏璃 興奮マキシマ厶|   110P/192   |
-|656| 菜乃花 ABCDEFGH???Iカップ！ショートカット美少女入学|   48P/83.5   |
-|657| AKB48 小嶋真子 加藤玲奈 田野優花 高橋朱里 18歳のAKB48|   58P/88.7   |
-|658| Kanna Hashimoto 橋本環奈 環奈の日曜日|   12P/6.64   |
-|659| Shiritsu Ebisu Chugaku 私立恵比寿中学 夏だぜエビ中|   93P/124   |
-|660| Aya Hazuki 葉月あや トランジスタグラマー|   105P/169   |
-|661| 為近あんな ミスFLASH2015のクールビューティー入学!!|   54P/80.6   |
-|662| Rena Takeda 武田玲奈 夏に跳べ！部活少女|   109P/151   |
-|663| Ai Shinozaki 篠崎愛 BIG BIG LOVE|   110P/187   |
-|664| Mayu Yamaguchi 山口まゆ 天使の繭|   77P/119   |
-|665| Mizuki Katase 片瀬美月 Gカップはにかみ美少女入学!!|   54P/91.5   |
-|667| Mikie Hara 原幹恵 Great Hara|   90P/165   |
-|668| YukaSomeya染谷有香-史上最強Body|   131P/185   |
-|669| ShioriKonno紺野栞-Fカップルプルちゃん入学|   74P/89.3   |
+|656| 菜乃花 ABCDEFGH...Iカップ！ショートカット美少女入学|   48P/83.5   |
+|657| AKB48 |小嶋真子 加藤玲奈 田野優花 高橋朱里 18歳のAKB48|   58P |
+|658| Kanna Hashimoto 橋本環奈 |環奈の日曜日|   12P   |
+|659| Shiritsu Ebisu Chugaku |私立恵比寿中学 夏だぜエビ中|   93P   |
+|660| Aya Hazuki 葉月あや |トランジスタグラマー|   105P |
+|661| 為近あんな| ミスFLASH2015のクールビューティー入学!!|   54P |
+|662| Rena Takeda 武田玲奈 |夏に跳べ！部活少女|   109P|
+|663| Ai Shinozaki 篠崎愛| BIG BIG LOVE|   110P|
+|664| Mayu Yamaguchi 山口まゆ |天使の繭|   77P|
+|665| Mizuki Katase 片瀬美月 |Gカップはにかみ美少女入学!!|   54P|
+|667| Mikie Hara 原幹恵| Great Hara|   90P|
+|668| YukaSomeya染谷有香|史上最強Body|   131P|
+|669| ShioriKonno紺野栞|Fカップルプルちゃん入学|   74P|
 |670| [Mai Shiraishi 白石麻衣](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) |エース登板| 72P+2V |
-|671| HitomiYasueda安枝瞳-濡れた瞳|   131P/182   |
-|672| Yuumi ゆうみ - グラドル天使 |   100P/172   |
-|673| Mari Nakamura 中村真理 - バスト100cm!23歳JK入学!! |   49P/84   |
-|674| Rena Takeda 武田玲奈 - あなたに会えてよかった! |   50P/100   |
-|675| Ai Shinozaki 篠崎愛 - LoVely LoVely |   99P/174   |
-|676| Hikaru Aoyama 青山ひかる - メガピカ |   98P/166   |
-|677| Miyu Natsue 夏江美優 - パッチリおめめのGショック入学!! |   49P/81   |
-|678| AKB48 (指原莉乃,向井地美音,加藤玲奈,大和田南那,二村春香)|   75P/114   |
-|679| Alice Hirose 広瀬アリス - ヒロインとパーティー! |   58P/115   |
-|680| Ai Shinozaki 篠崎愛 - PERFECT LOVE |   100P/163   |
-|681| Tsukasa Fukumori 福森つかさ - 最強！童顔Fカップ入学 |   49P/76   |
-|682| Ai Shinozaki 篠崎愛 - あっためて???あげる |   98P/196   |
-|683| Shizuka Nakamura 中村静香 - やわらかぷるん |   100P/160   |
-168P/241   |
-
+|671| HitomiYasueda安枝瞳|濡れた瞳|   131P|
+|672| Yuumi ゆうみ | グラドル天使 |   100P|
+|673| Mari Nakamura 中村真理| バスト100cm!23歳JK入学!! |   49P |
+|674| Rena Takeda 武田玲奈|あなたに会えてよかった! |   50P |
+|675| Ai Shinozaki 篠崎愛|LoVely LoVely |   99P |
+|676| Hikaru Aoyama 青山ひかる|メガピカ |   98P |
+|677| Miyu Natsue 夏江美優 | パッチリおめめのGショック入学!! |   49P|
+|678| AKB48 |(原莉乃,向井地美音,加藤玲奈,大和田南那,二村春香)|   75|
+|679| Alice Hirose 広瀬アリス|ヒロインとパーティー! |   58P |
+|680| Ai Shinozaki 篠崎愛|PERFECT LOVE |   100P|
+|681| Tsukasa Fukumori 福森つかさ|最強！童顔Fカップ入学 |   49P   |
+|682| Ai Shinozaki 篠崎愛 |あっためて...あげる |   98P|
+|683| Shizuka Nakamura 中村静香|やわらかぷるん |   100P  |
 
 
 
