@@ -601,7 +601,7 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |667| Mikie Hara 原幹恵 Great Hara|   90P|
 |668| YukaSomeya染谷有香史上最強Body|   131P|
 |669| ShioriKonno紺野栞Fカップルプルちゃん入学|   74P|
-|670| [Mai Shiraishi 白石麻衣 エース登板](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) | 72P+2V |
+|670| [Mai Shiraishi 白石麻衣 エース登板](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html_blank) | 72P+2V |
 |671| HitomiYasueda安枝瞳濡れた瞳|   131P|
 |672| Yuumi ゆうみ  グラドル天使 |   100P|
 |673| Mari Nakamura 中村真理 バスト100cm!23歳JK入学!! |   49P |
