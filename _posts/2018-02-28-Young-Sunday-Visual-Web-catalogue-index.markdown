@@ -22,4 +22,5 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 
 | 序号 | 模特名字 |资料档案 | 套图数量 |
 |:-------------|:-------------|:------------| -----:|
-| 670 | [Mai Shiraishi 白石麻衣](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) |  生日：1992-08-20； 身高：161cm | 28P |
+|001|Akiko Yada 矢田亜希子 In HOKKAIDO|96P|
+|670| [Mai Shiraishi 白石麻衣](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) |  生日：1992-08-20； 身高：161cm | 28P |
