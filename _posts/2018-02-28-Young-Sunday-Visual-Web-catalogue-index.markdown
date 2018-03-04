@@ -58,9 +58,9 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |039| Yuko Kurosawa 黒沢ゆう子|42P|
 |040| 仲根かすみ 楽园[Le paradis]|131P|
 |041|Eri Murakami 村上恵梨 変身|34P|
-|042|Sayaka Numajiri 沼尻沙弥香 ||35P|
-|043|Aya Fujimoto 藤本绫||35P|
-|044 |Kei Matsubara 松原溪|   31P/6.62   |
+|042|Sayaka Numajiri 沼尻沙弥香 |35P|
+|043|Aya Fujimoto 藤本绫|35P|
+|044 |Kei Matsubara 松原溪|   31P|
 |045 |Miho Yoshioka 吉岡美穂 another M|   157P |
 |046 |Sonim ソニン Metamorphose|   73P|
 |047 |Yuki Ishikawa 石川夕紀 |   15P |
@@ -107,7 +107,7 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |095| Waka Inoue 井上和香 |   76P|
 |097| Yuka Hirata 平田裕香 |   50P
 |098| 石田未来 女の子は、少しずつ変貌していく-|   70P|
-|099| 安田美沙子 超 情热的ヤスダ|   109P/76   |
+|099| 安田美沙子 超 情热的ヤスダ|   109P|
 |100| Chisato Morishita 森下千里 いっとうしょう|   117P |
 |101| Haruka Ayase 綾瀬はるか |   63P|
 |102| Yuka Hirata 平田裕香 |   96P|
@@ -185,13 +185,13 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |175| 小松彩夏 おめでとう、アヤカ!もう、すっかりトナだね|   55P|
 |176| Kaho 夏帆 中学生最后の夏休み、思い出いっぱ|   36P|
 |177|-ますきあこ.岛根生まれの、とびっきりシンデレ|   72P|
-|178| Saaya Irie 入江纱绫, Runa Okada 冈田留奈, Rio Iguchi 井口梨央|   76P/127   
+|178| Saaya Irie 入江纱绫, Runa Okada 冈田留奈, Rio Iguchi 井口梨央|   76P|   
 |179|Saki Seto 瀬戸早妃|   84P|
-|180| Rina Akiyama 秋山莉奈|   78P/89   |
+|180| Rina Akiyama 秋山莉奈|   78P|
 |181| Mikie Hara 原干恵 Fカップ美少女は、いつだって元気いぱい|   60P|
 |182| Ai Takabe 高部あい もぎたて女子高生アイドル|   75P|
 |183| Risa Kudo 工藤里纱 くしゃくしゃ笑颜の、オレ达の彼女!!|   88P|
-|184| Hiroko Sato 佐藤寛子|   80P/94.7   |
+|184| Hiroko Sato 佐藤寛子|   80P|
 |185| Mami Matsuyama 松山まみ-UNDERAGE!|   104P|
 |186| Mai Nishida 西田麻衣-UNDERAGE!|   72P|
 |187| Azusa Yamamoto 山本梓 ハッピースマイル&官能SEXY!|   69P|
@@ -249,7 +249,7 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |239| Saaya Irie 入江紗綾-UNDERAGE!|   86P|
 |240| Mikie Hara 原幹惠|   54P|
 |241| Shoko Hamada 浜田翔子|   94P|
-|242| Azusa Yamamoto 山本梓|   63P/|
+|242| Azusa Yamamoto 山本梓|   63P|
 |243| Natsuko Tatsumi 辰巳奈都子|   92P|
 |244| Aya Kiguchi 木口亚矢|   80|
 |245| Idoling アイドリング|   147P|
@@ -417,7 +417,7 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |407| Hitomo Sakai 酒井瞳 オトナの瞳|   109P+4V|
 |408| Erena Sakurai 桜井えれ 17歲のハ入學！|   62P|
 |410| Umika Kawashima 川島海荷 夏少女、咲きます！|   96P|
-|411| Anri Sugihara 杉原杏璃 G!G!G!-Gcup!Great!Girl!|   128P/|
+|411| Anri Sugihara 杉原杏璃 G!G!G!-Gcup!Great!Girl!|   128P|
 |413| Ai Shinozaki 篠崎愛 らぶたんと夏休み|   122P|
 |415| Natsumi Chiba 千葉夏美 17歳のハーフちゃん入学！|   53P+4V|
 |418| AKB48 真夏の大航海！|   65P+4V|
@@ -488,7 +488,7 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |532| Anri Sugihara 杉原杏璃 ワールトカップ|   110P|
 |533| Asuka Kishi 岸明日香 めしたのG|   110P|
 |534| Mayumi Kojima 小島麻友美 黒髪いもうと入学！|   59P+4V|
-|535| AKB48 AKB可憐だー!|   36P/60   |
+|535| AKB48 AKB可憐だー!|   36P   |
 |536| Yuki Kashiwagi 柏木由紀(AKB48) ゅきりんかの|   61P+4V|
 |537| Shizuka Nakamura 中村静香 少女の時間|   97P|
 |539| Hikari Maeda 前田光璃 ピンクヒップガール入學！|   54P+4V|
@@ -545,7 +545,7 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |610| Mai Hakase 葉加瀬マイ 極上の挑発|   75P|
 |611| X21 次世代ユニット X21 美少女に恋せよサマー|   72P|
 |612| Aeri Ikeda 池田愛恵里 Hカップ美女入学！|   69P|
-|613| Seira Sato 佐藤聖羅|グラビア界に衝撃!!!!|   108P|
+|613| Seira Sato 佐藤聖羅グラビア界に衝撃!!!!|   108P|
 |614| Mayu Watanabe 渡辺麻友 & Rino Sashihara 指原莉乃 史上最強|   62P|
 |615| Miku Nakahara 中原未來 Gショック！|   108P|
 |616| Hazuki 葉月 透明感120% 清涼アイドル入学！|   43P|
@@ -555,7 +555,7 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |620| Arisa Shirota 白田ありさ Eカップのグラビアカメラマン入学！|   54P|
 |621| HKT48 HAPPY ILLUSION|   53P|
 |622| Nogizaka46 乃木坂46 おいでよ僕の家へ|   47P|
-|623| Chiaki Kyan 喜屋武ちあき ちあき い・た・ず・ら|   109P/|
+|623| Chiaki Kyan 喜屋武ちあき ちあき い・た・ず・ら|   109P|
 |624| Tsukasa Wachi 和地つかさ Gカップのトランジス夕グラマー入学|   53P|
 |625| Miduki Hoshina 星名美津紀 プリティH|   108P|
 |626| Ayaka Noda 野田彩加 ICE DOLL|   83P|
@@ -601,16 +601,16 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |667| Mikie Hara 原幹恵 Great Hara|   90P|
 |668| YukaSomeya染谷有香史上最強Body|   131P|
 |669| ShioriKonno紺野栞Fカップルプルちゃん入学|   74P|
-|670| [Mai Shiraishi 白石麻衣](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) エース登板| 72P+2V |
+|670| [Mai Shiraishi 白石麻衣 エース登板](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) | 72P+2V |
 |671| HitomiYasueda安枝瞳濡れた瞳|   131P|
 |672| Yuumi ゆうみ  グラドル天使 |   100P|
 |673| Mari Nakamura 中村真理 バスト100cm!23歳JK入学!! |   49P |
 |674| Rena Takeda 武田玲奈あなたに会えてよかった! |   50P |
 |675| Ai Shinozaki 篠崎愛LoVely LoVely |   99P |
-|676| Hikaru Aoyama 青山ひかる|メガピカ |   98P |
+|676| Hikaru Aoyama 青山ひかるメガピカ |   98P |
 |677| Miyu Natsue 夏江美優  パッチリおめめのGショック入学!! |   49P|
 |678| AKB48 (原莉乃,向井地美音,加藤玲奈,大和田南那,二村春香)|   75|
-|679| Alice Hirose 広瀬アリス|ヒロインとパーティー! |   58P |
+|679| Alice Hirose 広瀬アリスヒロインとパーティー! |   58P |
 |680| Ai Shinozaki 篠崎愛PERFECT LOVE |   100P|
 |681| Tsukasa Fukumori 福森つかさ最強！童顔Fカップ入学 |   49P   |
 |682| Ai Shinozaki 篠崎愛 あっためて...あげる |   98P|
