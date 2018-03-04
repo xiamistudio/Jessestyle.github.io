@@ -36,30 +36,30 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 |016|小向美奈子||10P|
 |017|吉岡美穂|情热の庵と神秘の岛|200P|
 |018|釈由美子|Nature Calls Me!|80P|
-|019 平田裕香 ハイティーン ブギ|   113P/34.5   |
-|020 Aiko Ito いとうあいこ Chao|   143P/44.5   |
-|021 内山理名|   96P/20.8   |
-|022 森下千里 |   112P/20.2   |
-|023 仲根かすみ たびだち|   125P/44.2   |
-|024 栗田梨子 夏のアルバム|   10P/11.9   |
-|025 Akiko Yada 矢田亜希子 |   110P/41.4   |
-|026 釈由美子 神话|   76P/23.5   |
-|027 Kasumi Nakane 仲根かすみ |   123P/56.7   |
-|029 吹石一惠 Fukiishi|   121P/53.8   |
-|030 平田裕香 The Gift |   97P/41.2   |
-|031 内山理名 Free Soul, Free Life|   105P/36.4   |
-|032 Sakura Mizutani 水谷樱 |   130P/42.8   |
-|033 Sonim ソニン もっと、もっと 近づいて|   84P/144   |
-|034 Chisato Morishita 森下千里 |   123P/69.6   |
-|035 酒井若菜 Seasons|   177P/74.6   |
-|036 Sakura Chiharu 沙倉ちはる|   49P/40.8   |
-|037 吉川綾乃 UNDERAGE|   47P/33.2   |
-|038 Mai Nakajima 中島舞|   50P/30.1   |
-|039 Yuko Kurosawa 黒沢ゆう子|   42P/21.3   |
-|040 仲根かすみ 楽园|   Le paradis]|   131P/75.9   |
-|041 Eri Murakami 村上恵梨 変身|   34P/8.6   |
-|042 Sayaka Numajiri 沼尻沙弥香 |   35P/7.88   |
-|043 Aya Fujimoto 藤本绫|   35P/21.3   |
+|019|平田裕香|ハイティーン ブギ|   113P|
+|020|Aiko Ito いとうあいこ |Chao|143P|
+|021|内山理名|   |96P|
+|022|森下千里 |   |112P|
+|023|仲根かすみ たびだち|   |125P|
+|024|栗田梨子 夏のアルバム|   |10P|
+|025|Akiko Yada 矢田亜希子 |   |110P|
+|026|釈由美子 |神话|   76P/23.5   |
+|027| Kasumi Nakane 仲根かすみ |   |123P|
+|029|吹石一惠| Fukiishi|   |121P|
+|030 |平田裕香| The Gift |   |97P|
+|031| 内山理名| Free Soul, Free Life|   105P|
+|032|Sakura Mizutani 水谷樱 |   |130P|
+|033| Sonim |ソニン もっと、もっと 近づいて|   84P|
+|034| Chisato Morishita 森下千里 |   |123P|
+|035| 酒井若菜 Seasons|   |177P|
+|036| Sakura Chiharu 沙倉ちはる|   49P|
+|037| 吉川綾乃 UNDERAGE|47P|
+|038| Mai Nakajima 中島舞|50P|
+|039| Yuko Kurosawa 黒沢ゆう子|42P|
+|040| 仲根かすみ |楽园|Le paradis]|131P|
+|041|Eri Murakami 村上恵梨 変身|34P|
+|042|Sayaka Numajiri 沼尻沙弥香 ||35P|
+|043|Aya Fujimoto 藤本绫||35P|
 |044 Kei Matsubara 松原溪|   31P/6.62   |
 |045 Miho Yoshioka 吉岡美穂 another M|   157P/64.2   |
 |046 Sonim ソニン Metamorphose|   73P/56   |
