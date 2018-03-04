@@ -20,7 +20,11 @@ Young Sunday Visual Web 目录索引电子版 **从3月2日开始制作当中…
 <br>
 在等待电子书出炉前，先查阅文字版的目录索引，001-265目录索引来源于套图爱好者收集的目录，266之后资源源于官方。另外寻找土豪或者有该网站账号的朋友联系本人，因为还有一个资料版的图片本人无法获取。本人想搜集更详细的版本。谢谢！红色字体的模特名字，点击进去可以观看套图哦……
 
-| 序号 | 模特名字 |资料档案 | 套图数量 |
+| 序号 | 模特名字 |套图名称 | 套图数量 |
 |:-------------|:-------------|:------------| -----:|
-|001|Akiko Yada 矢田亜希子 In HOKKAIDO|96P|
-|670| [Mai Shiraishi 白石麻衣](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) |  生日：1992-08-20； 身高：161cm | 28P |
+|001|Akiko Yada 矢田亜希子|In HOKKAIDO|96P|
+|002|Miho Yoshioka 吉冈美穗|In HAWAII|63P|
+|003|Eiko Koike 小池栄子||99P|
+|006|Yuka Hirata 平田裕香||118P|
+|009|Kasumi Nakane 仲根かすみ||137P|
+|670| [Mai Shiraishi 白石麻衣](http://blog.sina.com.cn/s/blog_180e76fbf0102x6wk.html) || 28P |
