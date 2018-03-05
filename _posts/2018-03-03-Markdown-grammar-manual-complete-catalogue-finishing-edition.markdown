@@ -5,7 +5,7 @@ date: 2018-03-03 15:32:24.000000000 +09:00
 ---
 
 目录<BR>
-<a font id="#1">1. 斜体和粗体</font><BR>
+-<a font id="#1">1. 斜体和粗体</font><BR>
  <a font id="#2">2. 分级标题</font><BR>
  <a font id="#3">3. 超链接</font><BR>
  <a font id="#3.1"> *  3.1 行内式</font><BR>
