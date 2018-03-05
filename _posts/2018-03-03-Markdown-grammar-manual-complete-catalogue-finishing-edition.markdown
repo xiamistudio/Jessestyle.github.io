@@ -43,10 +43,7 @@ date: 2018-03-03 15:32:24.000000000 +09:00
 
 
 
-**Note:** This document is itself written using Markdown; you
-can [see the source for it by adding '.text' to the URL][src].
-
-  [src]: /projects/markdown/syntax.text
+**Note:** 版权声明：本文为博主原创文章，未经博主允许不得转载。
 
 * * *
 
