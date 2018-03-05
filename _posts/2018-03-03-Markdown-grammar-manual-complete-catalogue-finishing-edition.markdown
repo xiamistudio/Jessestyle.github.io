@@ -5,7 +5,9 @@ date: 2018-03-03 15:32:24.000000000 +09:00
 ---
 
 目录
-*   [1. 常用部分](#1)
+*   [1. 斜体和粗体](#1)
+*   [2. 分级标题](#2)
+*   [3. 超链接](#3)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
     *   [Automatic Escaping for Special Characters](#autoescape)
@@ -33,7 +35,9 @@ can [see the source for it by adding '.text' to the URL][src].
 
 * * *
 
-<h2 id="1">1. 常用部分</h2>
+<h2 id="1">1. 斜体和粗体</h2>
+<h2 id="2">2. 分级标题</h2>
+<h2 id="3">3. 超链接</h2>
 
 <h3 id="philosophy">Philosophy</h3>
 
