@@ -8,7 +8,7 @@ date: 2018-03-03 15:32:24.000000000 +09:00
 *   [1. 斜体和粗体](#1)
 *   [2. 分级标题](#2)
 *   [3. 超链接](#3)
-    *   [Philosophy](#philosophy)
+    *   [3.1. 行内式](#3.1)
     *   [Inline HTML](#html)
     *   [Automatic Escaping for Special Characters](#autoescape)
 *   [其他部分](#2)
@@ -39,7 +39,7 @@ can [see the source for it by adding '.text' to the URL][src].
 <h2 id="2">2. 分级标题</h2>
 <h2 id="3">3. 超链接</h2>
 
-<h3 id="philosophy">Philosophy</h3>
+<h3 id="3.1">Philosophy</h3>
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
 
