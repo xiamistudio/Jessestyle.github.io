@@ -5,7 +5,7 @@ date: 2018-03-03 15:32:24.000000000 +09:00
 ---
 
 目录
-*   [1. 斜体和粗体](#斜体和粗体)
+*   [1. 常用部分](#1)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
     *   [Automatic Escaping for Special Characters](#autoescape)
@@ -33,7 +33,7 @@ can [see the source for it by adding '.text' to the URL][src].
 
 * * *
 
-<h2 id="斜体和粗体">Overview</h2>
+<h2 id="1">1. 常用部分</h2>
 
 <h3 id="philosophy">Philosophy</h3>
 
