@@ -9,7 +9,7 @@ date: 2018-03-03 15:32:24.000000000 +09:00
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
     *   [Automatic Escaping for Special Characters](#autoescape)
-*   [Block Elements](#block)
+*   [其他部分](#2)
     *   [Paragraphs and Line Breaks](#p)
     *   [Headers](#header)
     *   [Blockquotes](#blockquote)
@@ -173,7 +173,7 @@ and `&` in your example code needs to be escaped.)
 * * *
 
 
-<h2 id="block">Block Elements</h2>
+<h2 id="2">其他部分</h2>
 
 
 <h3 id="p">Paragraphs and Line Breaks</h3>
