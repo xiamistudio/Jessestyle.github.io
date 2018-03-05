@@ -5,47 +5,47 @@ date: 2018-03-03 15:32:24.000000000 +09:00
 ---
 
 目录<BR>
--<a font id="#1">1. 斜体和粗体</font><BR>
- <a font id="#2">2. 分级标题</font><BR>
- <a font id="#3">3. 超链接</font><BR>
- <a font id="#3.1"> *  3.1 行内式</font><BR>
-  <a font id="#3.2">    * 3.2 参考式</font><BR>
-  <a font id="#3.3">    * 3.3 自动链接</font><BR>
-  <a font id="#4">4. 锚点</font><BR>
-  <a font id="#5">5. 列表</font><BR>
-    <a font id="#5.1">  * 5.1 无序列表</font><BR>
-    <a font id="#5.2">  * 5.2 有序列表</font><BR>
-    <a font id="#5.3">  * 5.3 定义型列表</font><BR>
-    <a font id="#5.4">  * 5.4 列表缩进</font><BR>
-     <a font id="#5.5"> * 5.5 包含段落的列表</font><BR>
-    <a font id="#5.6">  * 5.6 包含引用的列表</font><BR>
-    <a font id="#5.7">  * 5.7 包含代码区块的引用</font><BR>
-    <a font id="#5.8">  * 5.8 一个特殊情况</font><BR>
- <a font id="#6"> 6. 引用</font><BR>
-  <a font id="#6.1">    * 6.1 引用的多层嵌套</font><BR>
-  <a font id="#6.2">    * 6.2 引用其它要素</font><BR>
- <a font id="#7"> 7. 插入图像</font><BR>
-   <a font id="#7.1">   * 7.1 行内式</font><BR>
-  <a font id="#7.2">    * 7.2 参考式</font><BR>
- <a font id="#8"> 8. 内容目录</font><BR>
- <a font id="#9"> 9. 注脚</font><BR>
- <a font id="#10"> 10. LaTeX 公式</font><BR>
-  <a font id="#10.1">    * 10.1 $ 表示行内公式：</font><BR>
-  <a font id="#10.2">    * 10.2 $$ 表示整行公式：</font><BR>
-  <a font id="#11">11. 流程图</font><BR>
-  <a font id="#12">12. 表格</font><BR>
-  <a font id="#13">13. 分隔线</font><BR>
-  <a font id="#14">14. 代码</font><BR>
-  <a font id="#14.1">   * 14.1 行内式</font><BR>
-  <a font id="#14.2">   * 14.2 缩进式多行代码</font><BR>
-  <a font id="#14.3">   * 14.3 用六个\`包裹多行代码</font><BR>
-  <a font id="#14.4">    * 14.4 HTML 原始码</font><BR>
+-1. 斜体和粗体BR(#itm1)
+ -2. 分级标题BR(#itm2)
+ (#itm3)3. 超链接BR
+ (#itm3.1) *  3.1 行内式BR
+  (#itm3.2)    * 3.2 参考式BR
+  (#itm3.3)    * 3.3 自动链接BR
+  (#itm4)4. 锚点BR
+  (#itm5)5. 列表BR
+    (#itm5.1)  * 5.1 无序列表BR
+    (#itm5.2)  * 5.2 有序列表BR
+    (#itm5.3)  * 5.3 定义型列表BR
+    (#itm5.4)  * 5.4 列表缩进BR
+     (#itm5.5) * 5.5 包含段落的列表BR
+    (#itm5.6)  * 5.6 包含引用的列表BR
+    (#itm5.7)  * 5.7 包含代码区块的引用BR
+    (#itm5.8)  * 5.8 一个特殊情况BR
+ (#itm6) 6. 引用BR
+  (#itm6.1)    * 6.1 引用的多层嵌套BR
+  (#itm6.2)    * 6.2 引用其它要素BR
+ (#itm7) 7. 插入图像BR
+   (#itm7.1)   * 7.1 行内式BR
+  (#itm7.2)    * 7.2 参考式BR
+ (#itm8) 8. 内容目录BR
+ (#itm9) 9. 注脚BR
+ (#itm10) 10. LaTeX 公式BR
+  (#itm10.1)    * 10.1 $ 表示行内公式：BR
+  (#itm10.2)    * 10.2 $$ 表示整行公式：BR
+  (#itm11)11. 流程图BR
+  (#itm12)12. 表格BR
+  (#itm13)13. 分隔线BR
+  (#itm14)14. 代码BR
+  (#itm14.1)   * 14.1 行内式BR
+  (#itm14.2)   * 14.2 缩进式多行代码BR
+  (#itm14.3)   * 14.3 用六个\`包裹多行代码BR
+  (#itm14.4)    * 14.4 HTML 原始码BR
      
      
 正在整理中……
 
 
- <a name="#1">1. 斜体和粗体</a><BR>
+ <a name="#itm1">1. 斜体和粗体</a><BR>
  <a name="#2">2. 分级标题</a><BR>
  <a name="#3">3. 超链接</a><BR>
  <a name="#3.1"> *  3.1 行内式</a><BR>
