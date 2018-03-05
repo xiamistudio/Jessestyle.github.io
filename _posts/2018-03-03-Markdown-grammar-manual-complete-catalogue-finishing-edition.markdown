@@ -4,7 +4,8 @@ title: Markdown 语法手册 （完整整理版）
 date: 2018-03-03 15:32:24.000000000 +09:00
 ---
 
-*   [Overview](#overview)
+目录
+*   [1. 斜体和粗体](#斜体和粗体)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
     *   [Automatic Escaping for Special Characters](#autoescape)
@@ -32,7 +33,7 @@ can [see the source for it by adding '.text' to the URL][src].
 
 * * *
 
-<h2 id="overview">Overview</h2>
+<h2 id="斜体和粗体">Overview</h2>
 
 <h3 id="philosophy">Philosophy</h3>
 
