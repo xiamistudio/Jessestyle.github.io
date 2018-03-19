@@ -20,11 +20,10 @@ blog_button:
     title: Blog
     description: Visit blog
 
--nav:
- -    - {title: Blog, description: Visit blog, url: 'https://jessestyle.github.io'}
- -    - {title: Projects, description: My Projects, url: 'https://jessestyle.github.io'}
- -    # - {title: Another Button, description: A button, url: 'http://example.com'}
- -  
+# Navigation buttons in the front page.
+nav:
+    - {title: Projects, description: My Projects, url: 'https://jessestyle.github.io/2018/02/EBook-Workshop-Themes/'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
