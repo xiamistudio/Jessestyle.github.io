@@ -20,12 +20,6 @@ blog_button:
     title: Blog
     description: Visit blog
 
-# Navigation buttons in the front page.
-nav:
-    - {title: Projects, description: My Projects, url: 'https://jessestyle.github.io'}
-    - {title: 小蝦米的博客, description: My Blog, url: 'http://blog.sina.com.cn/u/6457618367'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
-
 # Pagination
 gems: [jekyll-paginate]
 paginate: 10
