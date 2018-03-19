@@ -28,8 +28,7 @@ date: 2018-01-30 15:32:24.000000000 +09:00
 <br>
 
 - **网站历程**<br>
-<br>
-
 | 年份 | 时间 |事件 |
 |:-------------|:-------------|:------------|
-| 2005 | 未知  |注册并使用garu.ziperion.com域名，网站名为嘎鲁家族，昵称garu，制作出16款EBook Workshop Themes，发布在“我爱E书网”  |
+| 2006 |03-13|本人制作的39款EBook Workshop Themes被[绿盟市场](http://www.xdowns.com/soft/38/217/2006/Soft_7092.html){:target="_blank"}收录，也感谢该网站，本人制作的界面才得以保存在互联网。 |
+| 2005 |     |注册并使用garu.ziperion.com域名，网站名为嘎鲁家族，昵称garu（目前已停止更新），制作出16款EBook Workshop Themes，发布在“我爱E书网”  |
