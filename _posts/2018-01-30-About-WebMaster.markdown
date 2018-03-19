@@ -13,19 +13,19 @@ date: 2018-01-30 15:32:24.000000000 +09:00
     *   工作室秉承诚信、规范、高效的工作原则，用技术赢得市场，以创意服务取得信誉，竭诚为广大客户提供优质、高效、快捷的服务。面向未来，坚持自主创新。<br>
 <br>
 - **相关作品**<br>
-    *   [EBook Workshop Themes 39款风格](https://jessestyle.github.io/2018/02/EBook-Workshop-Themes/){:target="_blank"}<br>
-    
-- **联系站长**<br>
-    *   2018年1月30日，GitHub始建Jesse Style。<br> 
+    *   [EBook Workshop Themes 39款风格](https://jessestyle.github.io/2018/02/EBook-Workshop-Themes/){:target="_blank"}<br> 
     <br>
+    
 - **站长介绍**<br>   
     *   2005年零天在线 by 凌天
-    *   2006年0day.name
-
-
+    *   2006年0day.name<br>
+   
+- **联系站长**<br>
+    *   2018年1月30日，GitHub始建Jesse Style。<br>
     *   个人博客：[https://jessestyle.github.io/](https://jessestyle.github.io/){:target="_blank"}<br>
     *   QQ交流群：11226339
   <br>
+<br>
 
 - **发展历程**<br>
 - **2005年**<br>
