@@ -31,4 +31,4 @@ date: 2018-01-30 15:32:24.000000000 +09:00
 <br>
 | 2005年 | 网站历程及生活 |
 |:-------------|:-------------|
-||注册并使用garu.ziperion.com域名，网站名为嘎鲁家族，昵称garu，制作出16款EBook Workshop Themes，发布在“我爱E书网”|
+|001|注册并使用garu.ziperion.com域名，网站名为嘎鲁家族，昵称garu，制作出16款EBook Workshop Themes，发布在“我爱E书网”|
