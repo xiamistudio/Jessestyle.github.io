@@ -15,7 +15,7 @@ date: 2018-01-30 15:32:24.000000000 +09:00
     *   [EBook Workshop Themes 39款风格](https://jessestyle.github.io/2018/02/EBook-Workshop-Themes/){:target="_blank"}<br> 
     <br>
     
-- **站长介绍**<br>   
+- **站长介绍**<br>
     *   Jesse，我是一名资深的站长，前后免费做了13年的网站、博客、论坛等。<br>
     *   2006年0day.name<br>
    
