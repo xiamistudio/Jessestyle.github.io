@@ -69,7 +69,7 @@ date: 2018-01-30 15:32:24.000000000 +09:00
 - **2006年**<br>
     *   注册0day.name域名，网站名为零天在线，网名叫凌天，制作出23款EBook Workshop Themes，“我爱E书网”，其它未发布的界面制作及发布不详，见2014年01月05日事件<br>
     *   该域名由于种种原因，停止续费，所以该域名已经不是本人所有了。<br>
-    *   3月13日，本人制作的39款EBook Workshop Themes被[绿盟市场](http://www.xdowns.com/soft/38/217/2006/Soft_7092.html){:target="_blank"}收录，也感谢该网站，本人制作的界面才得以保存在互联网。<br>
+    *   3月13日，本人制作的39款EBook Workshop Themes被[绿盟市场](http://www.xdowns.com/soft/38/217/2006/Soft_7092.html){:target="_blank"} 收录，也感谢该网站，本人制作的界面才得以保存在互联网。<br>
 <br>    
 - **2005年**<br>
     *   注册并使用garu.ziperion.com域名，网站名为嘎鲁家族，昵称garu，制作出16款EBook Workshop Themes，发布在“我爱E书网”<br>
