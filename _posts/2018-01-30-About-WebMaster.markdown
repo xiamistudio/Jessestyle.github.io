@@ -12,12 +12,11 @@ date: 2018-01-30 15:32:24.000000000 +09:00
     *   工作室秉承诚信、规范、高效的工作原则，用技术赢得市场，以创意服务取得信誉，竭诚为广大客户提供优质、高效、快捷的服务。面向未来，坚持自主创新。<br>
 <br>
 - **相关作品**<br>
-    *   [EBook Workshop Themes 39款风格](https://jessestyle.github.io/2018/02/EBook-Workshop-Themes/){:target="_blank"}<br> 
+    *   [EBook Workshop Themes 39款风格](https://jessestyle.github.io/2018/02/EBook-Workshop-Themes/){:target="_blank"}<br> 
     <br>
     
 - **站长介绍**<br>
-    *   Jesse，我是一名资深的站长，前后做了13年的网站、博客、论坛等。<br>
-    *   2006年0day.name<br>
+    *   我是一名业余的网页、界面、皮肤设计师及站长，纵横网络十余年，建立及迁移无数网站及免费虚拟主机，也花费了RMB购买过域名及空间。爱好广泛，梦想成立一个制作团队，共同制作出好的作品。<br>
    
 - **联系站长**<br>
     *   个人博客：[https://jessestyle.github.io/](https://jessestyle.github.io/){:target="_blank"}<br>
