@@ -21,6 +21,7 @@ blog_button:
     description: Visit blog
 
 -nav:
+ -    - {title: Blog, description: Visit blog, url: 'https://jessestyle.github.io'}
  -    - {title: Projects, description: My Projects, url: 'https://jessestyle.github.io'}
  -    # - {title: Another Button, description: A button, url: 'http://example.com'}
  -  
