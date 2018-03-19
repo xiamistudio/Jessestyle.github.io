@@ -14,3 +14,13 @@ date: 2018-01-30 15:32:24.000000000 +09:00
 <br>
 - **相关作品**<br>
     [EBook Workshop Themes 39款风格](https://jessestyle.github.io/2018/02/EBook-Workshop-Themes/){:target="_blank"}<br>
+    
+- **联系站长**<br>
+    2018年1月30日，GitHub始建Jesse Style。<br> 
+    <br>
+- **站长介绍**<br>   
+Hi，大家好，我叫Jesse！我是一名“资深”的站长，从2005年开始建站，至今做了13年的经验，建立过数不清的网站及博客。在2014年01月05日，。
+。
+
+个人博客：[https://jessestyle.github.io/]（https://jessestyle.github.io/）
+跨学科交流QQ群：383275651
