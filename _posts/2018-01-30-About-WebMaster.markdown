@@ -28,6 +28,8 @@ date: 2018-01-30 15:32:24.000000000 +09:00
 <br>
 
 - **发展历程**<br>
-- **2005年**<br>
-    *   2005年注册并使用garu.ziperion.com域名，网站名为嘎鲁家族，网名叫garu，制作出16款EBook Workshop Themes<br>
+<br>
+- **2005年**
+<br>
+    *   2005年注册并使用garu.ziperion.com域名，网站名为嘎鲁家族，网名叫garu，制作出16款EBook Workshop Themes<br>
     *   2006年注册0day.name域名，网站名为零天在线，网名叫凌天，制作出23款EBook Workshop Themes，其它未发布的界面不详，原因请继续观看2014年01月05日事件。<br>
