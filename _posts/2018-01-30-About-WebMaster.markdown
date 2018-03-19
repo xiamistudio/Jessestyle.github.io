@@ -42,4 +42,4 @@ date: 2018-01-30 15:32:24.000000000 +09:00
 | 009 | Reina Tanaka 田中れいな | 生日：1989-11-11； 身高：153cm； 三围：78-60-81； 罩杯：A杯	 | 
 | 010 | Ai Kago 加護亜依 |  | 
 |2006| ||
-|2005| |创建嘎鲁家族garu.ziperion.com，昵称garu<br>制作16款EBook Workshop Themes，发布在“我爱E书网”<br>目前该网站已无法访问，同时本人已停止更新。|
+|2005| |创建嘎鲁家族garu.ziperion.com，昵称garu(该网站已无法访问，本人已停止更新。)<br>制作16款EBook Workshop Themes，发布在“我爱E书网”|
