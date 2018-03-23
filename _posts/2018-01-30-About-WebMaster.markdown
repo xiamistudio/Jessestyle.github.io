@@ -23,10 +23,6 @@ date: 2018-03-23 15:32:24.000000000 +09:00
     *   个人博客：[http://blog.sina.com.cn/u/6457618367](http://blog.sina.com.cn/u/6457618367){:target="_blank"}<br>
     *   留言板：[http://xiaoxiami.miniban.cn/](http://xiaoxiami.miniban.cn/){:target="_blank"}
   <br>
-<br><br>
-- **联系站长**<br>
-    *   个人博客：[https://jessestyle.github.io/](https://jessestyle.github.io/){:target="_blank"}<br>
-    *   QQ交流群：11226339
   <br>
 
 
