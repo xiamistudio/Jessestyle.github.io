@@ -1,11 +1,11 @@
 # Basic
-title: Jesse Style
-subtitle: 杰西风格
+title: xiami Studio
+subtitle: 蝦米工作室
 welcome_message: 把每一件简单的事情做好，就是不简单.把每一件平凡的事情做好，就是不平凡.<br>Every one simple thing, is not simple.To do each common thing, is not trivial.
 description: 态度决定一切，细节决定成败。<br>Attitude decides everything, details determine success or failure.
 creator:
 
-url: "https://jessestyle.github.io"
+url: "https://xiamistudio.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -41,7 +41,7 @@ social:
     github: 
     twitter: 
     gplus: 
-    mail: JesseStyle@qq.com
+    mail: xiamistudio@qq.com
 
 # Google Analytics
 ga:
