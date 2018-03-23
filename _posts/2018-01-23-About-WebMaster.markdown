@@ -29,7 +29,7 @@ date: 2018-01-23 15:32:24.000000000 +09:00
    <br>
 <h2 id="5">**联系站长**</h2><br>
 ●   个人网站：[https://xiamistudio.github.io/](https://xiamistudio.github.io/){:target="_blank"}<br>
-●   人博客：[http://blog.sina.com.cn/u/6457618367](http://blog.sina.com.cn/u/6457618367){:target="_blank"}<br>
+●   个人博客：[http://blog.sina.com.cn/u/6457618367](http://blog.sina.com.cn/u/6457618367){:target="_blank"}<br>
 ●   留言板：[http://xiaoxiami.miniban.cn/](http://xiaoxiami.miniban.cn/){:target="_blank"}
   <br>
   <br>
