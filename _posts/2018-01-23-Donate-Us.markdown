@@ -7,7 +7,7 @@ date: 2018-01-23 16:32:24.000000000 +09:00
     *   如果您觉得文章不错，如果您觉得本站的内容对您有所帮助；<br>
     *   如果您喜欢这个网站，希望它能发展的更好。<br>
     *   欢迎捐赠作者喝杯咖啡，有您的支持，作者会更加努力！<br>
-    ![avatar](https://github.com/xiamistudio/xiamistudio.github.io/blob/master/assets/images/Donate.jpg)
+    ![avatar](https://github.com/xiamistudio/xiamistudio.github.io/blob/master/assets/images/Donate.jpg?raw=true)
     <br>
 - **打赏名单**<br>
     *   。<br>
