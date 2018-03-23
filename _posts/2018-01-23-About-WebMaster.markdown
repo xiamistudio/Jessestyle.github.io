@@ -12,29 +12,28 @@ date: 2018-01-23 15:32:24.000000000 +09:00
 
 
 <h2 id="1">**关于本站**</h2><br>
-· 网站主要收集整理套图目录索引、电子书界面制作方面等……方便自己，也方便他人查阅。<br>
-· 博客以分享免费实用的软件及一直专注于解决电脑应用实际问题。除此之外还有一些硬件、软件、生活等问题的综合性博客。<br>
-· 部分文章多数转载自网络上，可能多次转载，很难标清作者和出处，请谅解。<br>
-· 如果您感觉本博的内容侵犯了您的权益，请联系站长解决。<br>
+●   网站主要收集整理套图目录索引、电子书界面制作方面等……方便自己，也方便他人查阅。<br>
+●   博客以分享免费实用的软件及一直专注于解决电脑应用实际问题。除此之外还有一些硬件、软件、生活等问题的综合性博客。<br>
+●   部分文章多数转载自网络上，可能多次转载，很难标清作者和出处，请谅解。<br>
+●   如果您感觉本博的内容侵犯了您的权益，请联系站长解决。<br>
     <br>
 <h2 id="2">**团队理念**</h2><br>
-    *   工作室秉承诚信、规范、高效的工作原则，用技术赢得市场，以创意服务取得信誉，竭诚为广大客户提供优质、高效、快捷的服务。面向未来，坚持自主创新。<br>
+●   工作室秉承诚信、规范、高效的工作原则，用技术赢得市场，以创意服务取得信誉，竭诚为广大客户提供优质、高效、快捷的服务。面向未来，坚持自主创新。<br>
 <br>
 <h2 id="3">**相关作品**</h2><br>
-    *   [EBook Workshop Themes 39款风格](https://xiamistudio.github.io/2018/02/EBook-Workshop-Themes/){:target="_blank"}<br> 
+●   [EBook Workshop Themes 39款风格](https://xiamistudio.github.io/2018/02/EBook-Workshop-Themes/){:target="_blank"}<br> 
     <br>
     
 <h2 id="4">**站长介绍**</h2><br>
-    *   我是一名业余的网页、界面、皮肤设计师及站长，纵横网络十余年，建立及迁移无数网站及免费虚拟主机，也花费了RMB购买过域名及空间。爱好广泛，梦想成立一个制作团队，共同制作出好的作品。<br>
+●   我是一名业余的网页、界面、皮肤设计师及站长，纵横网络十余年，建立及迁移无数网站及免费虚拟主机，也花费了RMB购买过域名及空间。爱好广泛，梦想成立一个制作团队，共同制作出好的作品。<br>
    <br>
 <h2 id="5">**联系站长**</h2><br>
-    *   个人网站：[https://xiamistudio.github.io/](https://xiamistudio.github.io/){:target="_blank"}<br>
-    *   个人博客：[http://blog.sina.com.cn/u/6457618367](http://blog.sina.com.cn/u/6457618367){:target="_blank"}<br>
-    *   留言板：[http://xiaoxiami.miniban.cn/](http://xiaoxiami.miniban.cn/){:target="_blank"}
+●   个人网站：[https://xiamistudio.github.io/](https://xiamistudio.github.io/){:target="_blank"}<br>
+●   人博客：[http://blog.sina.com.cn/u/6457618367](http://blog.sina.com.cn/u/6457618367){:target="_blank"}<br>
+●   留言板：[http://xiaoxiami.miniban.cn/](http://xiaoxiami.miniban.cn/){:target="_blank"}
   <br>
   <br>
 <h2 id="6">**网站历程**</h2><br>
-
 | 年份 | 日期 |     |网站历程及事件内容 |
 |:-------------|:-------------|:------|:------------| 
 |**2018**|     |     ||
