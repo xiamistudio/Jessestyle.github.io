@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About WebMaster<br>关于站长
-date: 2018-01-30 15:32:24.000000000 +09:00
+date: 2018-03-23 15:32:24.000000000 +09:00
 ---
 - **关于本站**<br>
     *   本站主要收集整理并提供套图目录索引、电子书界面制作等。方便自己，也方便他人查阅。<br>
@@ -19,8 +19,9 @@ date: 2018-01-30 15:32:24.000000000 +09:00
     *   我是一名业余的网页、界面、皮肤设计师及站长，纵横网络十余年，建立及迁移无数网站及免费虚拟主机，也花费了RMB购买过域名及空间。爱好广泛，梦想成立一个制作团队，共同制作出好的作品。<br>
    <br>
 - **联系站长**<br>
-    *   个人博客：[https://jessestyle.github.io/](https://jessestyle.github.io/){:target="_blank"}<br>
-    *   QQ交流群：11226339
+    *   个人网站：[https://xiamistudio.github.io/](https://xiamistudio.github.io/){:target="_blank"}<br>
+    *   个人博客：[http://blog.sina.com.cn/u/6457618367](http://blog.sina.com.cn/u/6457618367){:target="_blank"}<br>
+    *   留言板：[http://xiaoxiami.miniban.cn/](http://xiaoxiami.miniban.cn/){:target="_blank"}
   <br>
 <br><br>
 - **联系站长**<br>
