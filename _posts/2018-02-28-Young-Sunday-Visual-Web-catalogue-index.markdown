@@ -21,5 +21,6 @@ YS Web（YSVW）全称为Young Sunday Visual Web，翻成中文是：年轻的�
 |272| Matsuyama Meari 松山メアリ |More Smile       66P|1991年9月2日|兵庫県| B80 W54 H82|158cm|A型|
 |273| Saaya 紗綾 |Road 第二章~オーストラア 編~   131P|1993年11月15日|福岡県| B80 W57 H80|152cm||
 |274| Natsumi Kamata 鎌田奈津美|      111P|1988年8月19日|兵庫県| B82 W59 H85|153cm| |
+|275| Yuki Mihara 三原勇希|Pure Lip Pure Hip      109P|1990年4月4日|大阪府 | B80 W58 H83|160cm|AB型|
 
 部分写真集名称可能有误，因为网络上沒有该写真的日文，唯有自己对照日语平假名片假名表录入的，如有错误请通知更正，谢谢。
