@@ -228,7 +228,7 @@ YS Web（YSVW）全称为Young Sunday Visual Web，翻成中文是：年轻的�
 |533| Asuka Kishi 岸明日香|    めしたのG   110P|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
 |534| Mayumi Kojima 小島麻友美 |   黒髪いもうと入学！   59P+4V|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
 |535| AKB48 |   AKB可憐だー!   36P   |xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
-|536| Yuki Kashiwagi 柏木由紀(AKB48)    ゅきりんかの|   61P+4V|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
+|536| Yuki Kashiwagi 柏木由紀(AKB48)|    ゅきりんかの   61P+4V|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
 |537| Shizuka Nakamura 中村静香 |   少女の時間   97P|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
 |539| Hikari Maeda 前田光璃 |   ピンクヒップガール入學！   54P+4V|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
 |540| Risa Yoshiki 吉木りさ |   密室ロマンス   96P|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
