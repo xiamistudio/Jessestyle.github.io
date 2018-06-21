@@ -16,7 +16,7 @@ YS Web（YSVW）全称为Young Sunday Visual Web，翻成中文是：年轻的�
 |267| Yamamoto Azusa 山本梓|一緒にいこうネ67P|1981年4月24日|千葉県| B82 W55 H83|157cm|A型|
 |268| Nagasawa Nao 長澤奈央 |夜明け前   87P|1984年1月5日|東京| B88 W57 H87|165cm|A型|
 |269| Saaya 紗綾 |Road~旅立ち~   93P|1993年11月15日|福岡県| B80 W57 H80|152cm||
-|270| Mikie Hara 原幹恵 |   Milky Mickey   89P|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
+|270| Hara Mikie 原幹恵 |   Milky Mickey   89P|1987年7月3日|xx県| B91 W61 H88|163m|O型|
 |271| Chise Nakamura 中村知世 |   ちせぴょんキター   122P|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
 |272| Meari Matsuyama 松山メアリ       66P|xxxx年xx月xx日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
 |273| Saaya 紗綾 |Road~旅立ち~   131P|1993年11月15日|xx県| Bxx Wxx Hxx|xxxcm|xx型|
