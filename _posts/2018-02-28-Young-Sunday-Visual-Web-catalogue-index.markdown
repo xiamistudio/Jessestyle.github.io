@@ -19,6 +19,6 @@ YS Web（YSVW）全称为Young Sunday Visual Web，翻成中文是：年轻的�
 |270| Hara Mikie 原幹恵 |   Milky Mickey   89P|1987年7月3日|新潟県| B91 W61 H88|163m|O型|
 |271| Nakamura Chise 中村知世 |ちせぴょんキター   122P|1986年9月11日|福岡県福岡市| B82 W56 H81|162cm|B型|
 |272| Matsuyama Meari 松山メアリ |More Smile       66P|1991年9月2日|兵庫県| B80 W54 H82|158cm|A型|
-
+|273| Saaya 紗綾 |   131P|1993年11月15日|福岡県| B80 W57 H80|152cm||
 
 部分写真集名称可能有误，因为网络上该写真的日文，唯有自己对照日语平假名片假名表录入的，如有错误请通知更正，谢谢。
