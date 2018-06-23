@@ -27,5 +27,11 @@ YS Web（YSVW）全称为Young Sunday Visual Web，翻成中文是：年轻的�
 |278| 中山惠Megumi Nakayama |   女優游戯   105P|1980年10月16日|富山県| B86 W58 H86|167cm|A型|
 |279|谷桃子 Momoko Tani |絕品!ピーチバイ    83P|1984年9月9日|茨城県| B88 W57 H87|160cm|A型|
 |280|辰巳奈都子 Natsuko Tatsumi |Endless Summer       80P|1988年1月21日|東京都| B82 W56 H82|158cm||
+|281|南明奈 Akina Minami |      129P|1989年5月15日|神奈川県| B80 W56 H83|160cm|O型|
+
+
+
+
+
 
 部分写真集名称可能有误，因为网络上沒有该写真的日文，唯有自己对照日语平假名片假名表录入的，如有错误请通知更正或补充，谢谢。
