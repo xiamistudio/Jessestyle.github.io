@@ -28,7 +28,7 @@ YS Web（YSVW）全称为Young Sunday Visual Web，翻成中文是：年轻的�
 |279|谷桃子 Momoko Tani 『絕品!ピーチバイ』    [83P]|1984年9月9日|茨城県| B88 W57 H87|160cm|A型|
 |280|辰巳奈都子 Natsuko Tatsumi 『Endless Summer』       [80P]|1988年1月21日|東京都| B82 W56 H82|158cm||
 |281|南明奈 Akina Minami 『アア!アア!アア!アア!アツキーナがやつてきた！！』 [129P]|1989年5月15日|神奈川県| B80 W56 H83|160cm|O型|
-|282|平田裕香 Yuka Hirata 『 』      89P|1983年9月15日|北海道| B88 W60 H85|158cm|A型|
+|282|平田裕香 Yuka Hirata 『熱い胸騷ざ!』      [89P]|1983年9月15日|北海道| B88 W60 H85|158cm|A型|
 |283|アイシェリ Ai Cherie 『 』     122P|1986年2月16日|ロサンゼルス洛杉磯| B80 W58 H85|152cm|A型|
 |284|京本有加 Yuka Kyomoto  『 』   95P|1986年4月6日|新潟県| B82 W56 H83|154cm||
 |285|井上胡桃 Kurumi Inoue  『 』     61P|1992年1月21日|東京都| B78 W58 H81|159cm||
