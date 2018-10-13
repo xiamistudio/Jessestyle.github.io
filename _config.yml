@@ -14,9 +14,7 @@ highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: red
-
-# The blog button should not be removed.
-
+     
 # Navigation buttons in the front page.
 nav:
     - {title: Blog, description: Hami studio blog, url: 'https://hamistudio.wordpress.com/'}
