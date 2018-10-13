@@ -18,10 +18,11 @@ cover_color: red
 # The blog button should not be removed.
 blog_button:
     title: Blog
-    description: Visit blog
+    description: Hami studio blog
 
 # Navigation buttons in the front page.
 nav:
+    - {title: Blog, description: Hami studio blog, url: 'https://hamistudio.wordpress.com/'}
     - {title: Projects, description: My Projects, url: 'https://hamistudio.wordpress.com/2018/02/11/ebook-workshop-themes-39/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
