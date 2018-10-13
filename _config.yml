@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://xiamistudio.github.io/2018/02/EBook-Workshop-Themes/'}
+    - {title: Projects, description: My Projects, url: 'https://hamistudio.wordpress.com/2018/02/11/ebook-workshop-themes-39/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -41,7 +41,7 @@ social:
     github: 
     twitter: 
     gplus: 
-    mail: xiamistudio@qq.com
+    mail: hamistudio@qq.com
 
 # Google Analytics
 ga:
