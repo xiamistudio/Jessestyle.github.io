@@ -16,9 +16,6 @@ highlighter: rouge
 cover_color: red
 
 # The blog button should not be removed.
-blog_button:
-    title: Blog
-    description: Hami studio blog
 
 # Navigation buttons in the front page.
 nav:
